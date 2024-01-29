@@ -1,4 +1,4 @@
-# Google Sheets Advanced Data Handling and Automation Scripts
+# Google Sheets Data Handling and Automation Scripts
 
 ## Introduction
 This repository features a set of Google Apps Scripts developed for specific, practical data handling and processing tasks within Google Sheets. These scripts are actively used for automating workflows, managing data synchronization, and enhancing the functionality of Google Sheets.
